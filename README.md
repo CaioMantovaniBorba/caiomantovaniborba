@@ -3,6 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-caiovmborba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiovmborba@gmail.com)](mailto:fhugoduarte@gmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there
-I'm a web developer :computer:
+:computer: I'm a web developer
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caiomantovaniborba&show_icons=true" alt="caiomantovaniborba" /> </p>
