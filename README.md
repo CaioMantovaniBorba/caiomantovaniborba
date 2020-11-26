@@ -5,3 +5,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caiomantovaniborba&show_icons=true" alt="caiomantovaniborba" /> </p>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomantovaniborba&count_private=true&layout=compact&langs_count=8&hide=html,css" alt="caiomantovaniborba" /> </p>
